@@ -1,1 +1,1 @@
-# predictiveAnalysisOfCandies-dataAnalysis
+# predictiveAnalysisOfCandies
